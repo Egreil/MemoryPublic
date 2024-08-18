@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bcd47dbf1a013304d8b5feb49129ae44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dos: {instanceID: 0}
+  - face: {instanceID: 0}
+  - animDos: {fileID: 7400000, guid: 7dda2fca53df5574ea34e9357d0d77fc, type: 2}
+  - animFace: {instanceID: 0}
+  - grille: {instanceID: 0}
+  - anim: {instanceID: 0}
+  - animThemeDos: {fileID: 7400000, guid: 7dda2fca53df5574ea34e9357d0d77fc, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
